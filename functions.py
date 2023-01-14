@@ -20,7 +20,7 @@ def prime_number(a):
             break      
         else:
             return(f"{a} is a prime number.")
-
+# to get the factorial value 
 def factorial(a):
     if a == 0 :
         return 1
